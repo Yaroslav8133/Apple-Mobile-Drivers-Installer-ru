@@ -6,7 +6,7 @@
 
 $AppleDri1 = "https://downloader.disk.yandex.ru/disk/e92f44ff206c577c656fa54d731aa568fb5d4ee9624e04e977388088616b344c/68f93eb0/Q2aE2Ho4XamG6jq-JEKFwtlI8OPM_sB7r_21eXNHWrrNjdvuAeDJ409W9Fda1i18nSoMw_ssyJSfDsGYn0rnMg%3D%3D?uid=0&filename=01d96dfd-2f6f-46f7-8bc3-fd82088996d2_a31ff7000e504855b3fa124bf27b3fe5bc4d0893.cab&disposition=attachment&hash=7b22J6/1yPtrrXkVsMsWSXtXclX3o0UHlNvw8cKJ000PaBGF5mvHkIetgB3gDb8Aq/J6bpmRyOJonT3VoXnDag%3D%3D&limit=0&content_type=application%2Fvnd.ms-cab-compressed&owner_uid=1020185368&fsize=88728&hid=6fe41749b87bbe1dcf6dd5854baa237b&media_type=unknown&tknv=v3"
 $AppleDri2 = "https://downloader.disk.yandex.ru/disk/f1ec22cce699f3d7808897e6dce038042176d063adf2f3a555109d8e9f61a87a/68f93e7e/Q2aE2Ho4XamG6jq-JEKFwrChSx2v-en8K3X_MuUP3BBh5KQgy8JV-qpFG7GpE-jhRz3oWRloIk6LKgUI1WEAiw%3D%3D?uid=0&filename=netaapl_7503681835e08ce761c52858949731761e1fa5a1.cab&disposition=attachment&hash=aMYICgv24xWgu21tpoFltmAXBFj0WQ/FLuY%2BU6eRcbAZUeh5rmXl9TdMQS11FwOcq/J6bpmRyOJonT3VoXnDag%3D%3D&limit=0&content_type=application%2Fvnd.ms-cab-compressed&owner_uid=1020185368&fsize=1833386&hid=d75a8cabc564f085df0c61ab8dc85662&media_type=unknown&tknv=v3"
-$AppleITunesLink = "https://www.apple.com/itunes/download/win64"
+$AppleITunesLink = "https://downloader.disk.yandex.ru/disk/b98854b7c145402fb8dc9b24072c9ef2880d10bd823d92c6daa05b1691dce264/68f940a5/xPdJUfjOgQe6T4B88naFJaOBf6pjpvkuyph2-9ZcyPUDECGKJk4YIar1haz-3-dY_T3SrmYrGfSsKyzfxiz2zA%3D%3D?uid=0&filename=iTunes64Setup.exe&disposition=attachment&hash=YK9B3qACuibvzv/mD/DW3Vf6ZBgVA/AVFlT7i2GKILTKs7s/jq62UaUx1EhirCBGq/J6bpmRyOJonT3VoXnDag%3D%3D&limit=0&content_type=application%2Fvnd.microsoft.portable-executable&owner_uid=1020185368&fsize=210767328&hid=aa6e9125b6c12000c3bd23dff6711533&media_type=executable&tknv=v3"
 
 Write-Host ""
 Write-Host -ForegroundColor Cyan "Welcome to Apple USB and Mobile Device Ethernet drivers installer!!"
@@ -66,3 +66,4 @@ Write-Host ""
 Write-Host -ForegroundColor Cyan "Installation complete! Enjoy your Apple devices!!"
 
 Write-Host -ForegroundColor Yellow "(If devices are still not working, a reboot might be needed!!)"
+
